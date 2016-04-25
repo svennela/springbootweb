@@ -1,0 +1,6 @@
+applications:
+  - name: springbootweb
+    buildpack: java_buildpack
+    path: target/sample-application-0.0.1-SNAPSHOT.war
+    host: springbootweb
+    memory: 512M

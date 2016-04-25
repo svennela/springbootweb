@@ -1,0 +1,4 @@
+com/mycompany/myapp/web/filter/CsrfCookieGeneratorFilter.class
+com/mycompany/myapp/ApplicationWebXml.class
+com/mycompany/myapp/SampleApplicationApp.class
+com/mycompany/myapp/config/WebConfigurer.class
